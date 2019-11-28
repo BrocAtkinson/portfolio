@@ -18,9 +18,8 @@ margin-right: 40px;
     text-align: right;
     
   }
-  card-body1{
-text-align: center;
-float: center;
-
+  .flex-container{
+    display: flex;
+    justify-content: center;
   }
   
