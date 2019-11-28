@@ -1,9 +1,11 @@
-.card-body{
+.card{
 font-size: 22px;
 text-align: center;
 height: 80px;
 font-family: Arial, Helvetica, sans-serif;
-image: url("./images/prof.jpeg")
+margin-left: 40px;
+margin-right: 40px;
+
 
 }
 .jumbotron {
@@ -16,6 +18,9 @@ image: url("./images/prof.jpeg")
     text-align: right;
     
   }
-  #about{
+  card-body1{
+text-align: center;
+float: center;
 
   }
+  
