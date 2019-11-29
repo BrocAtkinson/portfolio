@@ -9,7 +9,7 @@ margin-right: 40px;
 
 }
 .jumbotron {
-    background-image: url("./images/union.jpeg");
+    background-image: url("./images/22IMG_1194.jpg");
     height: 300px;
     background-size: cover;
     margin-bottom: 0rem;
@@ -19,6 +19,7 @@ margin-right: 40px;
     
   }
   .flex-container{
+    flex-grow: 1;
     display: flex;
     justify-content: center;
   }
